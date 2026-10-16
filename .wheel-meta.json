@@ -1,0 +1,19 @@
+{
+  "wheel_id": 377,
+  "structure": "umbrella",
+  "slug": "westernsydneykitchenrenovation-com-103",
+  "project": "kitchen-renovations-western-sydney-comparison-98a6cf6caaa350fc4",
+  "parent_t1_ref": "westernsydneykitchenrenovation-com-151",
+  "node_role": "feeder",
+  "money_target": "westernsydneykitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations western sydney comparison",
+  "intended_url": "https://sitesau.github.io/westernsydneykitchenrenovation-com-103/",
+  "writeback_nonce": "c8e7cb30e11fa1cd",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-western-sydney-8ede8626d011fcfe259a41423/",
+      "anchor": "kitchen renovations western sydney",
+      "rel": "follow"
+    }
+  ]
+}
